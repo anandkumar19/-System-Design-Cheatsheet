@@ -58,4 +58,4 @@
 Community contributions both for issues and PRs are welcome. 
 
 ## Found it useful?
-Thanks. :) Feel free to leave a star on the repo, or if you can afford it, <a href="https://www.buymeacoffee.com/bhavul" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>.
+Thanks. :) Feel free to leave a star on the repo
